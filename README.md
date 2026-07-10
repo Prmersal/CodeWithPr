@@ -24,9 +24,9 @@
 
 A results-driven Full Stack Developer with hands-on experience in building scalable web applications using React.js, Node.js, Express.js, and MySQL. Proven ability to design intuitive user interfaces, develop secure RESTful APIs, and optimize backend performance. Currently contributing to a fast-paced startup, delivering impactful digital solutions that enhance business efficiency. Passionate about clean code, modern development practices, and continuous learning in the evolving tech ecosystem.
 
-- 🎯 **Open To:** Full Stack Engineering, Product Development, AI/ML Integrations
-- 🧠 **Expertise:** Full-Stack Development · AI/ML · Cloud Architecture · Product Engineering
-- 🌱 **Currently Learning:** Python, Advanced DSA, and Cloud Architecture.
+- 🎯 **Open To:** Full Stack Engineering, Product Development
+- 🧠 **Expertise:** Full-Stack Development · Product Engineering
+- 🌱 **Currently Learning:** Python, Advanced DSA.
 
 <br>
 
@@ -112,7 +112,7 @@ A results-driven Full Stack Developer with hands-on experience in building scala
 - Automation: Built no-code automation for lead nurturing and follow-ups.
 - Content Management: Oversaw content creation for websites, emails, and social platforms.
 
-**Skills:** `Digital Marketing` `Lead Generation` `Marketing Automation` `n8n` `Google Analytics` `Social Media Management` `Data Analysis`
+**Skills:** `Digital Marketing`, `Lead Generation`, `Marketing Automation`, `n8n` `Google Analytics`, `Social Media Management` `Data Analysis`
 
 <br>
 
