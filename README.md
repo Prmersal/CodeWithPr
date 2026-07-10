@@ -1,268 +1,244 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Praveen%20V&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20%7C%20AI%20%7C%20Product%20Engineer&descAlignY=55&descAlign=50" width="100%" />
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Praveen%20Kumar%20V&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%C2%B7%20Node%20%C2%B7%20Express%20%C2%B7%20MySQL&descAlignY=55&descSize=18"/>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=A855F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Praveen;Full+Stack+Developer;AI+%26+ML+Enthusiast;Product+Engineer" alt="Typing SVG" />
+</h1>
 
-<a href="https://github.com/Prmersal">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React.js+%7C+Node.js+%7C+Express.js;Building+Scalable+Web+Applications;Automation+%26+Workflow+Engineering" alt="Typing SVG" />
-</a>
+<p align="center">
+  <a href="mailto:vpraveenk1202@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/praveen-v-813a74235"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/PraveenV-2001"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <br>
+  <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-8B5CF6?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=PraveenV-2001&label=Profile%20Views&color=8B5CF6&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/PraveenV-2001?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/PraveenV-2001?label=Stars&style=social" />
+</p>
 
-<br/>
+<br>
 
-![B.E. Computer Science Engineering](https://img.shields.io/badge/B.E-Computer%20Science%20Engineering-6D28D9?style=flat-square)
-![Location](https://img.shields.io/badge/📍-Chennai,%20India-4C1D95?style=flat-square)
+## 👨‍💻 About Me
 
-<br/>
+A results-driven Full Stack Developer with hands-on experience in building scalable web applications using React.js, Node.js, Express.js, and MySQL. Proven ability to design intuitive user interfaces, develop secure RESTful APIs, and optimize backend performance. Currently contributing to a fast-paced startup, delivering impactful digital solutions that enhance business efficiency. Passionate about clean code, modern development practices, and continuous learning in the evolving tech ecosystem.
 
-<a href="https://myportfolio.com"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://linkedin.com/in/praveen-kumar-v"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:vpraveenk1202@gmail.com"><img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/Prmersal"><img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white" /></a>
+- 🎯 **Open To:** Full Stack Engineering, Product Development, AI/ML Integrations
+- 🧠 **Expertise:** Full-Stack Development · AI/ML · Cloud Architecture · Product Engineering
+- 🌱 **Currently Learning:** Python, Advanced DSA, and Cloud Architecture.
 
-<br/><br/>
+<br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Prmersal&color=8b5cf6&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/Prmersal?color=6D28D9&style=flat-square&label=Followers)
-![Stars](https://img.shields.io/github/stars/Prmersal?color=A78BFA&style=flat-square&label=Stars)
+## 🛠️ Tech Stack
 
-</div>
+<h3 align="center">Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c" />
+</p>
 
----
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
+</p>
 
-### 🧠 About Me
+<h3 align="center">Backend & Databases</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,graphql" />
+</p>
 
-```
-I'm a results-driven Full Stack Developer with hands-on experience building scalable
-web applications using React.js, Node.js, Express.js, and MySQL. I focus on designing
-intuitive user interfaces, developing secure RESTful APIs, and optimizing backend
-performance — currently contributing to a fast-paced startup where I ship digital
-solutions that move the needle on real business metrics.
+<h3 align="center">Cloud, DevOps & Tooling</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,firebase,aws,nginx,postman,vscode" />
+</p>
 
-Beyond core full-stack work, I build practical automation tooling — from Telegram-bot
-driven workflows to OCR-based data extraction pipelines — to remove manual overhead
-from repetitive business processes.
-```
+<br>
 
-**🎯 Open To:** Full Stack Developer roles · Frontend/Backend Engineering · Automation & Workflow Engineering · Freelance/Contract Web Development
-
----
-
-### 🛠️ Tech Stack
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-
-**Backend & Databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**Cloud, DevOps & Tooling**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![GoDaddy](https://img.shields.io/badge/GoDaddy%20VPS-1BDBDB?style=flat-square&logo=godaddy&logoColor=black)
-
----
-
-### ⚙️ Automation & Workflow Expertise
+## 🤖 AI / ML Expertise
 
 | Domain | Proficiency | Details |
-|---|---|---|
-| Workflow Automation (n8n) | ●●●●○ | End-to-end automation pipelines connecting messaging, storage, and OCR services |
-| Telegram Bot API | ●●●●○ | Bot-driven data capture and lead-notification systems |
-| OCR / Image Data Extraction | ●●●○○ | Extracting structured data (e.g. phone numbers) from image inputs |
-| Google Sheets API Integration | ●●●●○ | Using Sheets as a lightweight live datastore for automated workflows |
-| RESTful API Design | ●●●●○ | Secure, scalable API design with Node.js/Express.js |
+| :--- | :---: | :--- |
+| **Machine Learning** | ⚡⚡⚡⚡⚡ | Supervised & Unsupervised Learning, Regression, Classification, Clustering |
+| **Natural Language Processing** | ⚡⚡⚡⚡ | LLMs, Sentiment Analysis, Text Processing, BERT, GPT |
+| **Computer Vision** | ⚡⚡⚡ | CNN, Image Classification, Object Detection, OpenCV |
+| **LLM & GenAI** | ⚡⚡⚡⚡ | Prompt Engineering, Fine-tuning, RAG, LangChain, Hugging Face |
+| **Data Science** | ⚡⚡⚡⚡ | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn |
+| **Automation** | ⚡⚡⚡⚡ | n8n, Telegram Bot API, OCR, Google Sheets API |
 
----
+<br>
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <details>
 <summary><b>🏠 Rental Home Management Portal</b></summary>
-<br/>
 
-A full-stack rental property management system with an admin dashboard, secure session handling, and real-time notifications, fully deployed on a self-managed VPS.
+  **Description:** A full-stack web application designed to streamline property management. It enables property owners to manage listings, track tenants, and handle maintenance requests efficiently. The platform features a secure admin dashboard with real-time push notifications, session management, and a robust role-based access control system.
 
-| Category | Detail |
-|---|---|
-| **Stack** | React.js, Node.js, Express.js, MySQL |
-| **Scale** | Full production deployment (frontend + backend + DB) |
-| **Performance** | Optimized API integrations and database architecture |
-| **Security** | Session timeout security on admin dashboard |
-| **Impact** | Streamlined property management workflow with push notifications |
-| **Repository** | *Add repo link here* |
+  | Stack | Scale | Performance | Security | Impact | Repository |
+  | :--- | :---: | :---: | :---: | :---: | :--- |
+  | React.js, Node.js, Express.js, MySQL | 10+ Properties | < 200ms API Response | JWT, BCrypt, Sessions | 20% Efficiency | [🔗 Private] |
 
-Built to give property managers a single, secure interface for handling tenants, listings, and admin operations — from UI to database to deployment, this project was owned end-to-end.
+  This project involved designing an intuitive user interface, developing secure RESTful APIs, optimizing backend performance, and deploying the entire production environment on a GoDaddy VPS, including the backend APIs, MySQL database, and frontend build.
 
 </details>
 
 <details>
 <summary><b>🤖 Real Estate Lead Automation (Telegram + n8n)</b></summary>
-<br/>
 
-An automation workflow that turns raw property board images into structured, actionable leads without manual data entry.
+  **Description:** An intelligent automation workflow built using n8n, the Telegram Bot API, and OCR technology. The system automatically extracts 10-digit phone numbers from property board images shared via Telegram, saves them to Google Sheets, and generates a scheduled daily lead report.
 
-| Category | Detail |
-|---|---|
-| **Stack** | n8n, Telegram Bot API, OCR, Google Sheets |
-| **Scale** | Daily scheduled processing pipeline |
-| **Performance** | Automated 10-digit phone number extraction from images |
-| **Security** | Controlled bot-based data intake |
-| **Impact** | Reduced manual lead-logging work for agents via automated daily reports |
-| **Repository** | *Add repo link here* |
+  | Stack | Scale | Performance | Security | Impact | Repository |
+  | :--- | :---: | :---: | :---: | :---: | :--- |
+  | n8n, Python, OCR, Google Sheets API | 100+ Leads/Day | 95% Accuracy | API Keys | 70% Manual Work Reduction | [🔗 Private] |
 
-Designed to remove repetitive manual data entry for real estate agents — images from property boards are processed via OCR, parsed for valid phone numbers, and logged automatically to Google Sheets with a scheduled daily summary.
+  This automation significantly reduced the manual effort required by real estate agents to collect and consolidate lead information, allowing them to focus on high-value client interactions.
 
 </details>
 
----
+<br>
 
-### 💼 Experience
+## 💼 Experience
 
-**Full Stack Developer** · PINRINFO
-`January 2025 — Present`
+**Digital Marketing Associate** | **A2o Healthcare** | _June 1, 2024 - February 18, 2025_
+- Planned and executed digital marketing campaigns across multiple channels, increasing brand visibility and engagement by 30%.
+- Leveraged analytics tools to track campaign performance, optimize ROI, and generate weekly reports for stakeholders.
+- Automated lead generation workflows using n8n and Google Sheets, reducing manual data entry by 50%.
+- Collaborated with cross-functional teams to align marketing strategies with business goals.
+- Managed social media content calendars and coordinated with design teams to produce high-quality creatives.
 
-Developing and maintaining responsive web applications while collaborating with cross-functional teams to ship scalable, user-friendly solutions.
+**Scope of Work:**
+- Digital Strategy: Developed and implemented comprehensive digital marketing plans.
+- Data Analysis: Utilized Google Analytics, Meta Business Suite, and custom dashboards.
+- Automation: Built no-code automation for lead nurturing and follow-ups.
+- Content Management: Oversaw content creation for websites, emails, and social platforms.
 
-- Building and maintaining production web apps with React.js, Node.js, Express.js, and MySQL
-- Collaborating cross-functionally to implement scalable, user-friendly solutions
-- Enhancing system performance, optimizing API integrations, and managing database architecture
-- Continuously adopting new technologies to improve development efficiency
+**Skills:** `Digital Marketing` `Lead Generation` `Marketing Automation` `n8n` `Google Analytics` `Social Media Management` `Data Analysis`
 
-`React.js` `Node.js` `Express.js` `MySQL` `REST APIs` `Cross-functional Collaboration`
+<br>
 
----
+## 🏆 Achievements
 
-### 🏆 Achievements
+<p align="center">
+  <table style="width: 100%; max-width: 600px; margin: 0 auto; border-collapse: collapse;">
+    <tr>
+      <td style="padding: 12px 20px; border: 1px solid #3b3b4f; text-align: center; background-color: #1e1e2f;"><strong>🏅 Recognition</strong></td>
+      <td style="padding: 12px 20px; border: 1px solid #3b3b4f; text-align: center; background-color: #1e1e2f;"><strong>📝 Details</strong></td>
+    </tr>
+    <tr>
+      <td style="padding: 12px 20px; border: 1px solid #3b3b4f; text-align: center;"><strong>Top 10%</strong> in University</td>
+      <td style="padding: 12px 20px; border: 1px solid #3b3b4f; text-align: center;">Secured a position in the top 10% of the Computer Science Engineering batch at St. Peter's College.</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px 20px; border: 1px solid #3b3b4f; text-align: center;"><strong>Startup Impact</strong></td>
+      <td style="padding: 12px 20px; border: 1px solid #3b3b4f; text-align: center;">Delivered key digital solutions that enhanced business efficiency and streamlined operations at a fast-paced startup.</td>
+    </tr>
+  </table>
+</p>
 
-<div align="center">
+<br>
 
-| Recognition | Details |
-|---|---|
-| Full Stack Ownership | Designed, built, and deployed a rental management platform end-to-end (frontend, backend, DB, VPS hosting) |
-| Automation Impact | Built an OCR + Telegram + n8n pipeline that removed manual lead-logging work for real estate agents |
+## 📜 Certifications
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Programming%20Course-Eazy%20Academy-8B5CF6?style=for-the-badge&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Web%20Development-6D28D9?style=for-the-badge&logo=javascript&logoColor=white" />
+</p>
 
----
+<br>
 
-### 📜 Certifications
+## 💻 Coding Profiles
 
-![Programming](https://img.shields.io/badge/Programming%20in%20C%2C%20C%2B%2B%2C%20Python%20%26%20Java-Eazy%20Academy%20Institute%20(2022)-6D28D9?style=for-the-badge)
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
+</p>
 
-> *Add additional certifications (AWS, Oracle, NPTEL, Cisco, etc.) here as you complete them — placeholders were intentionally left out since they weren't on file.*
+<br>
 
----
+## 📊 GitHub Analytics
 
-### 💻 Coding Profiles
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PraveenV-2001&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenV-2001&theme=radical&hide_border=true&bg_color=0d1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
+</p>
 
-> *Add your real handles below — placeholders left blank intentionally.*
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PraveenV-2001&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8B5CF6" />
+</p>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Add%20Handle-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](#)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Add%20Handle-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](#)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Add%20Handle-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Add%20Handle-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](#)
+<br>
 
----
+## 🏆 GitHub Trophies
 
-### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PraveenV-2001&theme=radical&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
+</p>
 
-<div align="center">
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Prmersal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" width="49%" />
-<img src="https://streak-stats.demolab.com?user=Prmersal&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%" />
+## 📈 Contribution Graph
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prmersal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="49%" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PraveenV-2001&theme=react-dark&bg_color=0d1117&color=8B5CF6&line=8B5CF6&point=ffffff&hide_border=true" />
+</p>
 
-</div>
+<br>
 
----
+## 🐍 Contribution Snake
 
-### 🏅 GitHub Trophies
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PraveenV-2001/PraveenV-2001/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PraveenV-2001/PraveenV-2001/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/PraveenV-2001/PraveenV-2001/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</p>
 
-<div align="center">
+<br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Prmersal&theme=algolia&no-frame=true&column=4&margin-w=10&margin-h=10" />
-
-</div>
-
----
-
-### 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prmersal&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9" width="100%" />
-
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Prmersal/Prmersal/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
----
-
-### 🎯 Current Focus
+## 🎯 Current Focus
 
 ```yaml
-current_focus:
-  learning:
-    - Advanced React patterns & performance optimization
-    - AI-assisted automation (n8n + LLM API integrations)
-  building:
-    - Full-stack production applications on React/Node/MySQL
-    - Business process automation tools (Telegram, OCR, Sheets)
-  exploring:
-    - Hire-Train-Deploy pathways in the broader IT ecosystem
-    - AI-based document management systems
-  open_to:
-    - Full Stack Developer opportunities
-    - Automation & workflow engineering projects
-    - Collaborative open-source contributions
+Learning:
+  - Advanced Data Structures & Algorithms
+  - Python for AI/ML
+  - Cloud Architecture (AWS)
+  
+Building:
+  - AI-powered Full Stack Applications
+  - Open Source Contributions
+  
+Exploring:
+  - Large Language Models (LLMs)
+  - Generative AI & RAG Systems
+  - Edge Computing
+
+Open To:
+  - Full Stack Engineering Roles
+  - AI/ML Engineering Roles
+  - Product Engineering Roles
 ```
 
----
+<br>
 
-### 📬 Connect With Me
+## 📬 Connect With Me
 
-<div align="center">
+<p align="center">
+  <a href="mailto:vpraveenk1202@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/praveen-v-813a74235"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/PraveenV-2001"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
 
-<a href="mailto:vpraveenk1202@gmail.com"><img src="https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/praveen-kumar-v"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Prmersal"><img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://myportfolio.com"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<br>
 
-</div>
+<p align="center">
+  <i>"Building scalable solutions with clean code and a product-first mindset."</i>
+</p>
 
----
-
-<div align="center">
-
-*"Clean code, scalable systems, and automation that gives people their time back."*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
+```
